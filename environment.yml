@@ -27,4 +27,6 @@ dependencies:
   - pytest
   - pystac-client
   - seaborn
+  - proplot
+
 # conda-lock --kind explicit -f environment_trun.yml -p linux-64
