@@ -29,6 +29,7 @@ dependencies:
   - seaborn
   - proplot
   - SkillMetrics
+  - esmpy
 
 # conda-lock --kind explicit -f environment_trun.yml -p linux-64
 
